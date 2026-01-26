@@ -1,6 +1,6 @@
 # Finance Overview, Forecast, and Variance Suite
 
-A lightweight **interactive** finance dashboard. It’s designed to be **repeatable**: update the input CSVs, refresh the app, and re-use the same views for monthly/quarterly/yearly reviews.
+A **interactive** finance dashboard. It’s designed to be **repeatable**, update the input CSVs, refresh the app, and re-use the same views for monthly/quarterly/yearly reviews.
 
 ---
 
