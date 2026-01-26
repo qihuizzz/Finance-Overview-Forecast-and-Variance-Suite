@@ -1,0 +1,5 @@
+variable,distribution,min,mode,max,unit,notes
+units_multiplier,triangular,0.8,1.0,1.2,x,Sample a multiplier applied to base_units
+asp_multiplier,triangular,0.95,1.0,1.03,x,Sample a multiplier applied to base_asp
+unit_cost_multiplier,triangular,0.95,1.0,1.05,x,"Template range, adjust as needed"
+launch_delay_months,discrete,0.0,0.0,1.0,months,"Template, 0 or 1 month delay"

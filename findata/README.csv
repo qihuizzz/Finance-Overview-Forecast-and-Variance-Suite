@@ -1,0 +1,19 @@
+sheet_name,description
+dashboard_exec_overview,Executive overview with plan actual forecast and variance to plan
+dashboard_new_product_scen,New product scenario and forecast model outputs with probability and assumptions
+dashboard_cost_var_bridge,Production cost variance bridge by driver
+dashboard_cost_var_detail,Production cost variance detail with price and volume variance
+plan_revenue_fact,Plan revenue fact for existing products
+actual_revenue_fact,Actual revenue fact for existing products
+forecast_revenue_fact,Forecast revenue fact for existing products with two versions
+plan_cogs_fact,Plan COGS fact by account and vendor
+actual_cogs_fact,Actual COGS fact by account and vendor
+forecast_cogs_fact,Forecast COGS fact by account and vendor with two versions
+drivers_existing_products,Driver table for ambiguity and scenario inputs for existing products
+new_product_milestones,New product milestones timetable
+new_product_launch_prob,Launch probability curve by month
+assumptions_registry,Assumptions register for ambiguity
+dim_product,Product dimension
+dim_account,Account dimension
+dim_vendor,Vendor dimension
+dim_dept,Department dimension

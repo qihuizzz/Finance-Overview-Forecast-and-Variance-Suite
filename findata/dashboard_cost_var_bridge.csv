@@ -1,0 +1,193 @@
+month,product_key,product_name,driver,variance_amount
+2026-01,DRIVE,SPAN Drive,Freight rate,-63.75
+2026-01,DRIVE,SPAN Drive,Manufacturing rate,-560.0
+2026-01,DRIVE,SPAN Drive,Material price,-2854.1299999999974
+2026-01,DRIVE,SPAN Drive,Warranty and yield,-64.0
+2026-01,EDGE,SPAN Edge,Freight rate,5.490000000000009
+2026-01,EDGE,SPAN Edge,Manufacturing rate,0.0
+2026-01,EDGE,SPAN Edge,Material price,25.329999999999927
+2026-01,EDGE,SPAN Edge,Warranty and yield,0.0
+2026-01,PANEL-A,SPAN Panel,Freight rate,449.2600000000002
+2026-01,PANEL-A,SPAN Panel,Manufacturing rate,1210.0
+2026-01,PANEL-A,SPAN Panel,Material price,1459.890000000014
+2026-01,PANEL-A,SPAN Panel,Warranty and yield,132.0
+2026-01,PANEL-B,SPAN Panel Pro,Freight rate,-56.00999999999976
+2026-01,PANEL-B,SPAN Panel Pro,Manufacturing rate,-186.0
+2026-01,PANEL-B,SPAN Panel Pro,Material price,-171.7699999999968
+2026-01,PANEL-B,SPAN Panel Pro,Warranty and yield,-21.0
+2026-02,DRIVE,SPAN Drive,Freight rate,-169.92000000000007
+2026-02,DRIVE,SPAN Drive,Manufacturing rate,-910.0
+2026-02,DRIVE,SPAN Drive,Material price,-3402.209999999999
+2026-02,DRIVE,SPAN Drive,Warranty and yield,-104.0
+2026-02,EDGE,SPAN Edge,Freight rate,27.560000000000002
+2026-02,EDGE,SPAN Edge,Manufacturing rate,48.0
+2026-02,EDGE,SPAN Edge,Material price,269.8100000000004
+2026-02,EDGE,SPAN Edge,Warranty and yield,5.0
+2026-02,PANEL-A,SPAN Panel,Freight rate,-717.4400000000005
+2026-02,PANEL-A,SPAN Panel,Manufacturing rate,-1760.0
+2026-02,PANEL-A,SPAN Panel,Material price,2274.8699999999953
+2026-02,PANEL-A,SPAN Panel,Warranty and yield,-192.0
+2026-02,PANEL-B,SPAN Panel Pro,Freight rate,199.0300000000002
+2026-02,PANEL-B,SPAN Panel Pro,Manufacturing rate,310.0
+2026-02,PANEL-B,SPAN Panel Pro,Material price,7023.279999999999
+2026-02,PANEL-B,SPAN Panel Pro,Warranty and yield,35.0
+2026-03,DRIVE,SPAN Drive,Freight rate,252.3699999999999
+2026-03,DRIVE,SPAN Drive,Manufacturing rate,1610.0
+2026-03,DRIVE,SPAN Drive,Material price,7722.830000000002
+2026-03,DRIVE,SPAN Drive,Warranty and yield,184.0
+2026-03,EDGE,SPAN Edge,Freight rate,-33.82999999999993
+2026-03,EDGE,SPAN Edge,Manufacturing rate,-48.0
+2026-03,EDGE,SPAN Edge,Material price,-169.9399999999996
+2026-03,EDGE,SPAN Edge,Warranty and yield,-5.0
+2026-03,PANEL-A,SPAN Panel,Freight rate,866.3799999999992
+2026-03,PANEL-A,SPAN Panel,Manufacturing rate,1980.0
+2026-03,PANEL-A,SPAN Panel,Material price,6757.3399999999965
+2026-03,PANEL-A,SPAN Panel,Warranty and yield,216.0
+2026-03,PANEL-B,SPAN Panel Pro,Freight rate,-189.94999999999982
+2026-03,PANEL-B,SPAN Panel Pro,Manufacturing rate,-682.0
+2026-03,PANEL-B,SPAN Panel Pro,Material price,-3568.050000000003
+2026-03,PANEL-B,SPAN Panel Pro,Warranty and yield,-77.0
+2026-04,DRIVE,SPAN Drive,Freight rate,-280.25999999999976
+2026-04,DRIVE,SPAN Drive,Manufacturing rate,-1470.0
+2026-04,DRIVE,SPAN Drive,Material price,-7073.259999999995
+2026-04,DRIVE,SPAN Drive,Warranty and yield,-168.0
+2026-04,EDGE,SPAN Edge,Freight rate,-9.0
+2026-04,EDGE,SPAN Edge,Manufacturing rate,-96.0
+2026-04,EDGE,SPAN Edge,Material price,-273.5
+2026-04,EDGE,SPAN Edge,Warranty and yield,-10.0
+2026-04,PANEL-A,SPAN Panel,Freight rate,-312.1299999999992
+2026-04,PANEL-A,SPAN Panel,Manufacturing rate,-1540.0
+2026-04,PANEL-A,SPAN Panel,Material price,-8590.140000000014
+2026-04,PANEL-A,SPAN Panel,Warranty and yield,-168.0
+2026-04,PANEL-B,SPAN Panel Pro,Freight rate,102.15999999999985
+2026-04,PANEL-B,SPAN Panel Pro,Manufacturing rate,62.0
+2026-04,PANEL-B,SPAN Panel Pro,Material price,3497.25
+2026-04,PANEL-B,SPAN Panel Pro,Warranty and yield,7.0
+2026-05,DRIVE,SPAN Drive,Freight rate,345.22999999999956
+2026-05,DRIVE,SPAN Drive,Manufacturing rate,2290.4000000000015
+2026-05,DRIVE,SPAN Drive,Material price,4748.320000000007
+2026-05,DRIVE,SPAN Drive,Warranty and yield,378.4000000000001
+2026-05,EDGE,SPAN Edge,Freight rate,50.57999999999993
+2026-05,EDGE,SPAN Edge,Manufacturing rate,249.5999999999999
+2026-05,EDGE,SPAN Edge,Material price,627.4200000000001
+2026-05,EDGE,SPAN Edge,Warranty and yield,42.5
+2026-05,PANEL-A,SPAN Panel,Freight rate,-865.2600000000002
+2026-05,PANEL-A,SPAN Panel,Manufacturing rate,-985.5999999999985
+2026-05,PANEL-A,SPAN Panel,Material price,-2271.899999999994
+2026-05,PANEL-A,SPAN Panel,Warranty and yield,163.19999999999982
+2026-05,PANEL-B,SPAN Panel Pro,Freight rate,571.8199999999997
+2026-05,PANEL-B,SPAN Panel Pro,Manufacturing rate,2509.7599999999984
+2026-05,PANEL-B,SPAN Panel Pro,Material price,10015.679999999993
+2026-05,PANEL-B,SPAN Panel Pro,Warranty and yield,424.9000000000001
+2026-06,DRIVE,SPAN Drive,Freight rate,-266.3099999999995
+2026-06,DRIVE,SPAN Drive,Manufacturing rate,-350.0
+2026-06,DRIVE,SPAN Drive,Material price,444.74000000000524
+2026-06,DRIVE,SPAN Drive,Warranty and yield,-40.0
+2026-06,EDGE,SPAN Edge,Freight rate,45.97000000000003
+2026-06,EDGE,SPAN Edge,Manufacturing rate,144.0
+2026-06,EDGE,SPAN Edge,Material price,336.25
+2026-06,EDGE,SPAN Edge,Warranty and yield,15.0
+2026-06,PANEL-A,SPAN Panel,Freight rate,-876.7000000000007
+2026-06,PANEL-A,SPAN Panel,Manufacturing rate,-2090.0
+2026-06,PANEL-A,SPAN Panel,Material price,-19601.660000000003
+2026-06,PANEL-A,SPAN Panel,Warranty and yield,-228.0
+2026-06,PANEL-B,SPAN Panel Pro,Freight rate,-286.34999999999945
+2026-06,PANEL-B,SPAN Panel Pro,Manufacturing rate,-248.0
+2026-06,PANEL-B,SPAN Panel Pro,Material price,1651.320000000007
+2026-06,PANEL-B,SPAN Panel Pro,Warranty and yield,-28.0
+2026-07,DRIVE,SPAN Drive,Freight rate,595.3299999999999
+2026-07,DRIVE,SPAN Drive,Manufacturing rate,2564.7999999999993
+2026-07,DRIVE,SPAN Drive,Material price,7447.1600000000035
+2026-07,DRIVE,SPAN Drive,Warranty and yield,420.8000000000002
+2026-07,EDGE,SPAN Edge,Freight rate,1.6499999999999773
+2026-07,EDGE,SPAN Edge,Manufacturing rate,161.2800000000002
+2026-07,EDGE,SPAN Edge,Material price,136.1900000000005
+2026-07,EDGE,SPAN Edge,Warranty and yield,34.5
+2026-07,PANEL-A,SPAN Panel,Freight rate,-28.93000000000029
+2026-07,PANEL-A,SPAN Panel,Manufacturing rate,2327.5999999999985
+2026-07,PANEL-A,SPAN Panel,Material price,2016.890000000014
+2026-07,PANEL-A,SPAN Panel,Warranty and yield,562.8000000000002
+2026-07,PANEL-B,SPAN Panel Pro,Freight rate,-184.47000000000025
+2026-07,PANEL-B,SPAN Panel Pro,Manufacturing rate,972.1599999999999
+2026-07,PANEL-B,SPAN Panel Pro,Material price,3327.470000000001
+2026-07,PANEL-B,SPAN Panel Pro,Warranty and yield,253.4000000000001
+2026-08,DRIVE,SPAN Drive,Freight rate,-116.11999999999989
+2026-08,DRIVE,SPAN Drive,Manufacturing rate,-700.0
+2026-08,DRIVE,SPAN Drive,Material price,-1886.9600000000064
+2026-08,DRIVE,SPAN Drive,Warranty and yield,-80.0
+2026-08,EDGE,SPAN Edge,Freight rate,-14.950000000000045
+2026-08,EDGE,SPAN Edge,Manufacturing rate,0.0
+2026-08,EDGE,SPAN Edge,Material price,280.5
+2026-08,EDGE,SPAN Edge,Warranty and yield,0.0
+2026-08,PANEL-A,SPAN Panel,Freight rate,-703.2800000000007
+2026-08,PANEL-A,SPAN Panel,Manufacturing rate,-1430.0
+2026-08,PANEL-A,SPAN Panel,Material price,-4397.700000000012
+2026-08,PANEL-A,SPAN Panel,Warranty and yield,-156.0
+2026-08,PANEL-B,SPAN Panel Pro,Freight rate,423.6800000000003
+2026-08,PANEL-B,SPAN Panel Pro,Manufacturing rate,992.0
+2026-08,PANEL-B,SPAN Panel Pro,Material price,5723.989999999991
+2026-08,PANEL-B,SPAN Panel Pro,Warranty and yield,112.0
+2026-09,DRIVE,SPAN Drive,Freight rate,132.67000000000007
+2026-09,DRIVE,SPAN Drive,Manufacturing rate,630.0
+2026-09,DRIVE,SPAN Drive,Material price,3293.790000000008
+2026-09,DRIVE,SPAN Drive,Warranty and yield,72.0
+2026-09,EDGE,SPAN Edge,Freight rate,44.69999999999993
+2026-09,EDGE,SPAN Edge,Manufacturing rate,0.0
+2026-09,EDGE,SPAN Edge,Material price,-186.64999999999964
+2026-09,EDGE,SPAN Edge,Warranty and yield,0.0
+2026-09,PANEL-A,SPAN Panel,Freight rate,720.3200000000015
+2026-09,PANEL-A,SPAN Panel,Manufacturing rate,1375.0
+2026-09,PANEL-A,SPAN Panel,Material price,4549.440000000002
+2026-09,PANEL-A,SPAN Panel,Warranty and yield,150.0
+2026-09,PANEL-B,SPAN Panel Pro,Freight rate,226.1299999999992
+2026-09,PANEL-B,SPAN Panel Pro,Manufacturing rate,930.0
+2026-09,PANEL-B,SPAN Panel Pro,Material price,6551.899999999994
+2026-09,PANEL-B,SPAN Panel Pro,Warranty and yield,105.0
+2026-10,DRIVE,SPAN Drive,Freight rate,-3.300000000000182
+2026-10,DRIVE,SPAN Drive,Manufacturing rate,70.0
+2026-10,DRIVE,SPAN Drive,Material price,1889.8199999999924
+2026-10,DRIVE,SPAN Drive,Warranty and yield,8.0
+2026-10,EDGE,SPAN Edge,Freight rate,-45.92000000000007
+2026-10,EDGE,SPAN Edge,Manufacturing rate,-144.0
+2026-10,EDGE,SPAN Edge,Material price,-450.6700000000001
+2026-10,EDGE,SPAN Edge,Warranty and yield,-15.0
+2026-10,PANEL-A,SPAN Panel,Freight rate,-343.1100000000006
+2026-10,PANEL-A,SPAN Panel,Manufacturing rate,-2585.0
+2026-10,PANEL-A,SPAN Panel,Material price,-5913.709999999992
+2026-10,PANEL-A,SPAN Panel,Warranty and yield,-282.0
+2026-10,PANEL-B,SPAN Panel Pro,Freight rate,19.699999999999818
+2026-10,PANEL-B,SPAN Panel Pro,Manufacturing rate,744.0
+2026-10,PANEL-B,SPAN Panel Pro,Material price,3056.6300000000047
+2026-10,PANEL-B,SPAN Panel Pro,Warranty and yield,84.0
+2026-11,DRIVE,SPAN Drive,Freight rate,36.07999999999993
+2026-11,DRIVE,SPAN Drive,Manufacturing rate,56.0
+2026-11,DRIVE,SPAN Drive,Material price,-2478.520000000004
+2026-11,DRIVE,SPAN Drive,Warranty and yield,136.0
+2026-11,EDGE,SPAN Edge,Freight rate,9.920000000000073
+2026-11,EDGE,SPAN Edge,Manufacturing rate,284.15999999999985
+2026-11,EDGE,SPAN Edge,Material price,544.9899999999998
+2026-11,EDGE,SPAN Edge,Warranty and yield,51.5
+2026-11,PANEL-A,SPAN Panel,Freight rate,-760.4599999999991
+2026-11,PANEL-A,SPAN Panel,Manufacturing rate,-140.8000000000029
+2026-11,PANEL-A,SPAN Panel,Material price,-7615.690000000002
+2026-11,PANEL-A,SPAN Panel,Warranty and yield,312.60000000000036
+2026-11,PANEL-B,SPAN Panel Pro,Freight rate,-419.46000000000004
+2026-11,PANEL-B,SPAN Panel Pro,Manufacturing rate,411.6800000000003
+2026-11,PANEL-B,SPAN Panel Pro,Material price,-5299.690000000002
+2026-11,PANEL-B,SPAN Panel Pro,Warranty and yield,210.69999999999982
+2026-12,DRIVE,SPAN Drive,Freight rate,194.01000000000022
+2026-12,DRIVE,SPAN Drive,Manufacturing rate,700.0
+2026-12,DRIVE,SPAN Drive,Material price,3373.0800000000017
+2026-12,DRIVE,SPAN Drive,Warranty and yield,80.0
+2026-12,EDGE,SPAN Edge,Freight rate,13.950000000000045
+2026-12,EDGE,SPAN Edge,Manufacturing rate,0.0
+2026-12,EDGE,SPAN Edge,Material price,6.389999999999418
+2026-12,EDGE,SPAN Edge,Warranty and yield,0.0
+2026-12,PANEL-A,SPAN Panel,Freight rate,-375.59000000000015
+2026-12,PANEL-A,SPAN Panel,Manufacturing rate,-55.0
+2026-12,PANEL-A,SPAN Panel,Material price,1160.1900000000023
+2026-12,PANEL-A,SPAN Panel,Warranty and yield,-6.0
+2026-12,PANEL-B,SPAN Panel Pro,Freight rate,275.1300000000001
+2026-12,PANEL-B,SPAN Panel Pro,Manufacturing rate,682.0
+2026-12,PANEL-B,SPAN Panel Pro,Material price,2599.329999999987
+2026-12,PANEL-B,SPAN Panel Pro,Warranty and yield,77.0

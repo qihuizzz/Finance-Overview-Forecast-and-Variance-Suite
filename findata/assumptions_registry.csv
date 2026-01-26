@@ -1,0 +1,4 @@
+assumption_key,base,downside,upside,owner,last_updated,confidence
+Launch month for PANEL-X,MP in 2026-09,MP slips to 2026-10 with slower ramp,MP on time with faster ramp,Operations,2026-01-24,Medium
+BOM unit cost for PANEL-X,255 USD per unit,270 USD per unit,248 USD per unit,Supply Chain,2026-01-24,Medium
+Yield rate for PANEL-X at ramp,0.915,0.895,0.925,Operations,2026-01-24,Low

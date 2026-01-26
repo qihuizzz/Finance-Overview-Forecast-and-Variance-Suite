@@ -1,0 +1,5 @@
+variable,distribution,min,mode,max
+units_multiplier,triangular,0.8,1.0,1.2
+asp_multiplier,triangular,0.9,1.0,1.1
+unit_cost_multiplier,triangular,0.9,1.0,1.15
+launch_delay_months,discrete,0,0,2

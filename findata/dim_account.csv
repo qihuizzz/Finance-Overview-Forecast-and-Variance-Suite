@@ -1,0 +1,15 @@
+account_key,account_name,account_type,sub_type
+6000,Salaries,OPEX,People
+6100,Benefits,OPEX,People
+6200,Software and Tools,OPEX,Other
+6300,Travel,OPEX,Other
+6400,Marketing Programs,OPEX,Other
+6500,Professional Services,OPEX,Other
+6600,Rent and Facilities,OPEX,Other
+7000,BOM Materials,COGS,Materials
+7100,Contract Manufacturing,COGS,Manufacturing
+7200,Freight and Duties,COGS,Logistics
+7300,Warranty Reserve,COGS,Quality
+8000,Test Equipment,CAPEX,Equipment
+8100,Tooling and Fixtures,CAPEX,Equipment
+8200,IT Hardware,CAPEX,IT
