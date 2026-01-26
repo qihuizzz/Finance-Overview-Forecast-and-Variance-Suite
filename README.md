@@ -25,8 +25,7 @@ What you can do:
 - Switch between **KPIs** and **Trends** to see summary metrics or time-series patterns
 - Use the page navigation to move between sections easily
 
-<img src="doc/Overview1.png" width="400" />
-<img src="doc/Overview2.png" width="400" />
+<img src="doc/Overview1.png" width="400" /> <img src="doc/Overview2.png" width="400" />
 
 ---
 
@@ -48,10 +47,8 @@ You can also:
 - Choose a **View** level: **Month / Quarter / Year**
 - Switch between **KPIs** and **Trends** to view summary numbers or trends
 
-<img src="doc/forecast1.png" width="400" />
-<img src="doc/forecast2.png" width="400" />
-<img src="doc/forecast3.png" width="400" />
-<img src="doc/forecast4.png" width="400" />
+<img src="doc/forecast1.png" width="400" /> <img src="doc/forecast2.png" width="400" />
+<img src="doc/forecast3.png" width="400" /> <img src="doc/forecast4.png" width="400" />
 
 ---
 
@@ -69,5 +66,4 @@ This page is useful for understanding:
 - How variance decomposes (e.g., price vs volume)
 - Which accounts contribute the most
 
-<img src="doc/variance1.png" width="400" />
-<img src="doc/variance2.png" width="400" />
+<img src="doc/variance1.png" width="400" /> <img src="doc/variance2.png" width="400" />
