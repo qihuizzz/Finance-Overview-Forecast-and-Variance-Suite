@@ -12,7 +12,7 @@ From the Home page, you can click the three buttons to jump directly to:
 - **Forecast**
 - **Variance**
 
-<img src="doc/home1.png" width="400" />
+<img src="doc/home1.png" width="420" />
 
 ---
 
@@ -25,7 +25,7 @@ What you can do:
 - Switch between **KPIs** and **Trends** to see summary metrics or time-series patterns
 - Use the page navigation to move between sections easily
 
-<img src="doc/Overview1.png" width="400" /> <img src="doc/Overview2.png" width="400" />
+<img src="doc/Overview1.png" width="420" /> <img src="doc/Overview2.png" width="420" />
 
 ---
 
@@ -36,7 +36,7 @@ The **Forecast** page focuses on scenario-based planning for new products.
 Modes:
 - **Single Scenario**: deep dive into one scenario
 - **Compare Scenarios**: compare multiple scenarios side-by-side
-- **Monte Carlo**: simulate uncertainty based on input distributions
+- **Monte Carlo**: simulate uncertainty using user-defined input distributions, and run simulations by adjusting parameters.
 
 Scenarios available:
 - **Base**
@@ -47,8 +47,8 @@ You can also:
 - Choose a **View** level: **Month / Quarter / Year**
 - Switch between **KPIs** and **Trends** to view summary numbers or trends
 
-<img src="doc/forecast1.png" width="400" /> <img src="doc/forecast2.png" width="400" />
-<img src="doc/forecast3.png" width="400" /> <img src="doc/forecast4.png" width="400" />
+<img src="doc/forecast1.png" width="420" /> <img src="doc/forecast2.png" width="420" />
+<img src="doc/forecast3.png" width="420" /> <img src="doc/forecast4.png" width="420" />
 
 ---
 
@@ -66,4 +66,4 @@ This page is useful for understanding:
 - How variance decomposes (e.g., price vs volume)
 - Which accounts contribute the most
 
-<img src="doc/variance1.png" width="400" /> <img src="doc/variance2.png" width="400" />
+<img src="doc/variance1.png" width="420" /> <img src="doc/variance2.png" width="420" />
