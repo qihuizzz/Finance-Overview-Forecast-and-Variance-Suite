@@ -76,25 +76,31 @@ if bridge.empty or "month" not in bridge.columns:
     st.stop()
 
 products = sorted(bridge["product_name"].dropna().unique().tolist()) if "product_name" in bridge.columns else []
-
 if not products:
     st.info("No data available to render this dashboard yet")
     st.stop()
 
+
 with filters:
-    # product on top + All
+    # 1) Product on top + All
     product_sel = st.selectbox("Product", ["All"] + products, index=0)
 
-    # filter for valid period options
+    # product-filtered bridge for driver list + period options
     bf = bridge.copy()
     if product_sel != "All" and "product_name" in bf.columns:
         bf = bf[bf["product_name"] == product_sel].copy()
 
+    # 2) Driver under product (moved here)
+    drivers_all = sorted(bf["driver"].dropna().unique().tolist()) if "driver" in bf.columns else []
+    driver_sel = st.selectbox("Driver", ["All"] + drivers_all, index=0) if drivers_all else "All"
+
+    # 3) View under driver
+    view_level = st.selectbox("View", ["Month", "Quarter", "Year"], index=0)
+
+    # period choices
     months = sorted(bf["month"].dropna().unique().tolist()) if "month" in bf.columns else []
     quarters = sorted(bf["quarter"].dropna().unique().tolist()) if "quarter" in bf.columns else []
     years = sorted(bf["year"].dropna().unique().tolist()) if "year" in bf.columns else []
-
-    view_level = st.selectbox("View", ["Month", "Quarter", "Year"], index=0)
 
     if view_level == "Month":
         if not months:
@@ -115,10 +121,8 @@ with filters:
         period_col = "year"
         period_sel = st.selectbox("Year", years, index=max(0, len(years) - 1))
 
-    drivers_all = sorted(bf["driver"].dropna().unique().tolist()) if "driver" in bf.columns else []
-    driver_sel = st.selectbox("Driver", ["All"] + drivers_all, index=0) if drivers_all else "All"
 
-# filter to selected period
+# ---- build b0/d0 first (FIX ordering bug) ----
 b0 = bridge[bridge[period_col] == period_sel].copy()
 d0 = detail[detail[period_col] == period_sel].copy()
 
@@ -290,5 +294,6 @@ with h_l:
             st.info("Heatmap not available because required columns are missing")
     except Exception:
         st.info("Heatmap not available for current data")
+
 with h_r:
     st.empty()

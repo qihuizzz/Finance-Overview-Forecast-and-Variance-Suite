@@ -22,7 +22,6 @@ The **Overview** page helps you quickly understand business performance at diffe
 What you can do:
 - Choose a **View** level: **Month / Quarter / Year**
 - Switch between **KPIs** and **Trends** to see summary metrics or time-series patterns
-- Use the page navigation to move between sections easily
 
 <img src="doc/Overview1.png" width="400" /> <img src="doc/Overview2.png" width="400" />
 
