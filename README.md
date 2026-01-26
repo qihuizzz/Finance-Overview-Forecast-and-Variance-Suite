@@ -34,7 +34,7 @@ The **Forecast** page focuses on scenario-based planning for new products.
 Modes:
 - **Single Scenario**: deep dive into one scenario
 - **Compare Scenarios**: compare multiple scenarios side-by-side
-- **Monte Carlo**: simulate uncertainty using user-defined input distributions, and run simulations by adjusting parameters.
+- **Monte Carlo**: simulate uncertainty using user-defined input distributions, and **run simulations** by adjusting parameters.
 
 Scenarios available:
 - **Base**
