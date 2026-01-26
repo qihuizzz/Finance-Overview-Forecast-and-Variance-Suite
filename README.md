@@ -1,7 +1,6 @@
 # Finance Overview, Forecast, and Variance Suite
 
-A lightweight **interactive** finance dashboard built with **Streamlit**.  
-It’s designed to be **repeatable**: update the input CSVs, refresh the app, and re-use the same views for monthly/quarterly/yearly reviews.
+A lightweight **interactive** finance dashboard. It’s designed to be **repeatable**: update the input CSVs, refresh the app, and re-use the same views for monthly/quarterly/yearly reviews.
 
 ---
 
@@ -12,7 +11,7 @@ From the Home page, you can click the three buttons to jump directly to:
 - **Forecast**
 - **Variance**
 
-<img src="doc/home1.png" width="420" />
+<img src="doc/home1.png" width="400" />
 
 ---
 
@@ -25,7 +24,7 @@ What you can do:
 - Switch between **KPIs** and **Trends** to see summary metrics or time-series patterns
 - Use the page navigation to move between sections easily
 
-<img src="doc/Overview1.png" width="420" /> <img src="doc/Overview2.png" width="420" />
+<img src="doc/Overview1.png" width="400" /> <img src="doc/Overview2.png" width="400" />
 
 ---
 
@@ -47,8 +46,8 @@ You can also:
 - Choose a **View** level: **Month / Quarter / Year**
 - Switch between **KPIs** and **Trends** to view summary numbers or trends
 
-<img src="doc/forecast1.png" width="420" /> <img src="doc/forecast2.png" width="420" />
-<img src="doc/forecast3.png" width="420" /> <img src="doc/forecast4.png" width="420" />
+<img src="doc/forecast1.png" width="400" /> <img src="doc/forecast2.png" width="400" />
+<img src="doc/forecast3.png" width="400" /> <img src="doc/forecast4.png" width="400" />
 
 ---
 
@@ -66,4 +65,4 @@ This page is useful for understanding:
 - How variance decomposes (e.g., price vs volume)
 - Which accounts contribute the most
 
-<img src="doc/variance1.png" width="420" /> <img src="doc/variance2.png" width="420" />
+<img src="doc/variance1.png" width="400" /> <img src="doc/variance2.png" width="400" />
