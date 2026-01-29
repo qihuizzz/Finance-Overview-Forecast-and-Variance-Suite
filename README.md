@@ -29,7 +29,7 @@ What you can do:
 
 ## Forecast
 
-The Forecast page focuses on scenario-based planning for new products, with built-in support for working through ambiguous inputs.
+The Forecast page focuses on scenario-based planning for new products, with built-in support for working through **ambiguous** inputs.
 
 Modes:
 - **Single Scenario**: deep dive into one scenario
